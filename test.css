@@ -1,0 +1,99 @@
+#Header {
+	border: inset 8px #F3B81F;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	text-align: center;
+	background-image: radial-gradient(#8E41D5, black);
+}
+
+#Header h1 {
+	font-size: 60px;
+	color: #F3B81F;
+	font-weight: bold;
+	font-family: "Passion One";
+}
+
+
+body {
+	background-image: url("https://img4.goodfon.com/wallpaper/nbig/5/5e/bokeh-golden-background-ogni-boke-lights-zolotoi-fon-svet.jpg");
+}
+p {
+	color: white;
+	font-family: "arial";
+	font-weight: bold;
+}
+
+#LeftNav {
+	width: 400px;
+	padding-bottom: 8px;
+	margin-bottom: 10px;
+	border: dotted 8px #F3B81F;
+	text-align: center;
+	float: left;
+	background-color: #8E41D5;
+}
+
+#LeftNav h3 {
+	font-size: 36px;
+	color: #F3B81F;
+	font-family: "Passion One";
+}
+
+#LeftNav ul {
+  list-style-type: square;
+}
+
+#LeftNav a:link {
+	color: white;
+	font-family: "Rokkitt", serif;
+	font-size: 20px;
+}
+
+#LeftNav a:hover  {
+	color: gold;
+}
+
+#Content  {
+	width: 700px;
+	padding: 15px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	border: double 8px #F3B81F;
+	text-align: center;
+	background-color: #8E41D5;
+}
+
+#Content p {
+	font-family: "Rokkitt", serif;
+	font-size: 20px;
+}
+
+#Footer {
+	text-align: center;
+	border: outset 8px #F3B81F;
+	background-image: linear-gradient(#8E41D5, black);
+}
+
+#Footer h3 {
+	font-size: 30px;
+	color: #F3B81F;
+	font-family: "Passion One";
+	font-style: italic;
+	}
+
+#Footer ul {
+  list-style-type: square;
+}
+
+#Footer a:link {
+	color: white;
+	font-family: "Rokkitt", serif;
+	font-size: 20px;
+}
+
+#Footer a:hover  {
+	color: gold;
+}
